@@ -28,7 +28,6 @@
 	비밀번호 : <%= pw %><br/>
 	취미 : <%= Arrays.toString(hobbys) %><br/>
 	전공 : <%= major %><br/>
-	프로토콜 : <%= protocol %><br/>
-	
+	프로토콜 : <%= protocol %><br/>	
 </body>
 </html>
